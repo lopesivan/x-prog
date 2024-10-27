@@ -6,6 +6,7 @@ comment-cansi.sh        |    comment-cansi
 comment-cpp.sh          |    comment-cpp
 comment.sh              |    comment
 triangulo_pascal.awk    |    triangulo_pascal
+R-eq.awk                |    r-eq
 
 
 # Posso adicionar comentários
