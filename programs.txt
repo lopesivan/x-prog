@@ -1,0 +1,15 @@
+#-----------------------+---------------------------------------------------
+# original script       |  link name
+#-----------------------+---------------------------------------------------
+
+comment-cansi.sh        |    comment-cansi
+comment-cpp.sh          |    comment-cpp
+comment.sh              |    comment
+triangulo_pascal.awk    |    triangulo_pascal
+
+
+# Posso adicionar comentários
+# Posso adicionar comentários
+# Posso adicionar comentários
+# Posso adicionar comentários
+# Posso adicionar comentários
